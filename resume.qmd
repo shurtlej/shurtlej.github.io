@@ -1,91 +1,79 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jakob Shurtleff's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jakob Shurtleff
+Computational Physics Student, Programmer, Researcher.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+<a href="mailto:jakobshurtleff@email.com">jakobshurtleff@email.com</a>
+| <a href="https://github.com/shurtlej">My GitHub Profile</a>
+| <a href="./resume.pdf">Download PDF</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+6th Semester Computational Physics student focusing on semiconductor theory and AI integration.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Computational modeling, Python-based automation, multi-agent AI systems, and physics lab coordination.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Quantum mechanics, GAAFET/MOS capacitor simulation, astrophysics, and local data aggregation.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sept 2022 - Apr 2026`
+**Brigham Young University–Idaho**, Rexburg, ID
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor of Science in Physics
+- Computational Concentration
 
 
+## Technical Skills
 
-## Awards
+`Programming`
+Python (Polars, Scipy, Lets-Plot), C++, Ollama, Web Scraping.
 
-`2012`
-President, *Royal Society*, London, UK
+`Tools`
+Linux, Git, Quarto, LaTeX, RTX-accelerated simulations.
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Languages`
+English (Native), Mandarin Chinese, Thai.
 
 
-## Occupation
+## Projects
 
-`1600`
-__Royal Mint__, London
+### Artificial Intelligence
 
-- Warden
-- Minted coins
+`2026`
+**Multi-Agent Chatbot**
+Developed an interactive AI system using Python and Ollama for complex task delegation and reasoning.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2026`
+**AI Fish Simulation**
+Designed and debugged a reward-based AI system for aquatic behavioral simulations in C++.
+
+### Data Science
+
+`2026`
+**Local Event Scraper**
+Built a Python-based web scraper to aggregate and format event data for Idaho Falls and Rexburg newsletters.
 
 
+## Experience
 
-<!-- ### Footer
+`Feb 2026 - Present`
+**Physics Lab Coordinator**, BYU-Idaho
 
-Last updated: May 2013 -->
+- Managed laboratory equipment and experimental setups.
+- Supported faculty in delivering undergraduate physics curriculum.
+
+`2025 - 2026`
+**Independent Developer**, Rexburg, ID
+
+- Optimized hardware-specific environments for RTX 2070 systems.
+- Developed and maintained custom Minecraft modpacks on NeoForge.
