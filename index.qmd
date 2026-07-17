@@ -4,7 +4,14 @@ subtitle: "my data science portfolio"
 # use quarto markdown to 
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Background
+I'm a computational physics major at Brigham Young University-Idaho with a heavy interest in applying machine learning
+and statistical models to better understand and model complex problems. I'm passionate about understanding not only the
+machine learning workflows but also the physical systems so that I can build solutions that are better taylored for real
+world problems.
+## experience
+I am comfortable with python, R and C++, and have experience in building AI systems using pytorch and keras. I study physics
+at BYU-i and work as the physics lab coordinator and a TA, helping to tutor students to better understand complex physics
+topics. for a more detailed look at my projects feel free to check out the subpages above!
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
