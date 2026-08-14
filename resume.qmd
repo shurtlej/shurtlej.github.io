@@ -1,79 +1,60 @@
 ---
-layout: cv
-title: Jakob Shurtleff's CV
+title: "Jakob Shurtleff"
+format:
+  html:
+    toc: false
+  pdf:
+    pdf-engine: xelatex
+    geometry:
+      - margin=0.75in
 ---
+
 # Jakob Shurtleff
-Computational Physics Student, Programmer, Researcher.
+[shurtlej@byui.edu](mailto:shurtlej@byui.edu) • 208-206-7185 • [linkedin.com/in/jakob-shurtleff](https://www.linkedin.com/in/jakob-shurtleff)
 
-<div id="webaddress">
-<a href="mailto:jakobshurtleff@email.com">jakobshurtleff@email.com</a>
-| <a href="https://github.com/shurtlej">My GitHub Profile</a>
-| <a href="./resume.pdf">Download PDF</a>
-</div>
+---
 
-## Currently
+## EDUCATION
 
-6th Semester Computational Physics student focusing on semiconductor theory and AI integration.
+**Brigham Young University - Idaho** | *Rexburg, ID*  
+**B.S. in Physics** | *Expected Graduation: December 2027*  
+* Emphasis on computational methods and machine learning application
 
-### Specialized in
+---
 
-Computational modeling, Python-based automation, multi-agent AI systems, and physics lab coordination.
+## TECHNICAL PROJECTS
 
-### Research interests
+**Independent Computational & AI Development**
+* Engineered object-oriented Python applications, data processing pipelines, and automation tools using Polars and Scikit-learn.
+* Built custom LLM utilities and multi-agent workflows to explore automated reasoning and language processing techniques.
 
-Quantum mechanics, GAAFET/MOS capacitor simulation, astrophysics, and local data aggregation.
+---
 
+## EXPERIENCE
 
-## Education
+**BYU-Idaho Physics Department** | *Rexburg, ID*  
+**Physics Lab Coordinator & Teaching Assistant** | *February 2026 – Present*  
+* Coordinated operations and logistics for the university physics homework help center, facilitating peer instruction and academic support resources.
+* Served as Teaching Assistant for Physics 121 (Principles of Physics I); clarified mechanics concepts, and graded coursework[cite: 1].
 
-`Sept 2022 - Apr 2026`
-**Brigham Young University–Idaho**, Rexburg, ID
+**BYU-Idaho Physics Department** | *Rexburg, ID*  
+**Volunteer Physics Tutor** | *August 2025 – Present*  
+* Conducted peer group tutoring in classical mechanics and numerical modeling to help students bridge abstract mathematics with computational applications[cite: 1].
 
-- Bachelor of Science in Physics
-- Computational Concentration
+**Aptive Environmental** | *Vacaville, CA*  
+**Door-to-Door Sales Representative** | *May 2025 – July 2025*  
+* Executed direct-to-consumer sales, honing negotiation, objection handling, and pipeline management in a performance-driven environment[cite: 1].
 
+---
 
-## Technical Skills
+## TECHNICAL SKILLS
 
-`Programming`
-Python (Polars, Scipy, Lets-Plot), C++, Ollama, Web Scraping.
+* **Languages & Libraries:** Python (NumPy, Polars, Scikit-learn, Matplotlib), C++, C#, SQL[cite: 1]
+* **Developer Tools:** Git, Visual Studio, Linux, REST APIs[cite: 1]
+* **Domain Focus:** Numerical simulation, machine learning deployment, process automation, data analysis[cite: 1]
 
-`Tools`
-Linux, Git, Quarto, LaTeX, RTX-accelerated simulations.
+---
 
-`Languages`
-English (Native), Mandarin Chinese, Thai.
+## CERTIFICATIONS
 
-
-## Projects
-
-### Artificial Intelligence
-
-`2026`
-**Multi-Agent Chatbot**
-Developed an interactive AI system using Python and Ollama for complex task delegation and reasoning.
-
-`2026`
-**AI Fish Simulation**
-Designed and debugged a reward-based AI system for aquatic behavioral simulations in C++.
-
-### Data Science
-
-`2026`
-**Local Event Scraper**
-Built a Python-based web scraper to aggregate and format event data for Idaho Falls and Rexburg newsletters.
-
-
-## Experience
-
-`Feb 2026 - Present`
-**Physics Lab Coordinator**, BYU-Idaho
-
-- Managed laboratory equipment and experimental setups.
-- Supported faculty in delivering undergraduate physics curriculum.
-
-`2025 - 2026`
-**Independent Developer**, Rexburg, ID
-
-- Optimized hardware-specific environments for RTX 2070 systems.
-- Developed and maintained custom Minecraft modpacks on NeoForge.
+* **AI Engineering and Development** — Coursera (2025)[cite: 1]
