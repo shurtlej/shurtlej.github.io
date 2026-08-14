@@ -1,5 +1,39 @@
 [
   {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "competition.html",
     "href": "competition.html",
     "title": "about me",
@@ -20,76 +54,89 @@
     ]
   },
   {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
+    "objectID": "exploration.html",
+    "href": "exploration.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Full Stack"
+      "Data Exploration"
     ]
   },
   {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Full Stack"
+      "Data Exploration"
     ]
   },
   {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
+      "Story Telling",
       "Project 3"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Data Cleansing",
-      "Project 2"
+      "Project 1"
     ]
   },
   {
@@ -115,189 +162,56 @@
     ]
   },
   {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling",
+      "Machine Learning",
       "Project 1"
     ]
   },
   {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Jakob Shurtleff’s CV",
-    "section": "",
-    "text": "Computational Physics Student, Programmer, Researcher.\n\njakobshurtleff@email.com | My GitHub Profile | Download PDF\n\n\n\n6th Semester Computational Physics student focusing on semiconductor theory and AI integration.\n\n\nComputational modeling, Python-based automation, multi-agent AI systems, and physics lab coordination.\n\n\n\nQuantum mechanics, GAAFET/MOS capacitor simulation, astrophysics, and local data aggregation.\n\n\n\n\nSept 2022 - Apr 2026 Brigham Young University–Idaho, Rexburg, ID\n\nBachelor of Science in Physics\nComputational Concentration\n\n\n\n\nProgramming Python (Polars, Scipy, Lets-Plot), C++, Ollama, Web Scraping.\nTools Linux, Git, Quarto, LaTeX, RTX-accelerated simulations.\nLanguages English (Native), Mandarin Chinese, Thai.\n\n\n\n\n\n2026 Multi-Agent Chatbot Developed an interactive AI system using Python and Ollama for complex task delegation and reasoning.\n2026 AI Fish Simulation Designed and debugged a reward-based AI system for aquatic behavioral simulations in C++.\n\n\n\n2026 Local Event Scraper Built a Python-based web scraper to aggregate and format event data for Idaho Falls and Rexburg newsletters.\n\n\n\n\nFeb 2026 - Present Physics Lab Coordinator, BYU-Idaho\n\nManaged laboratory equipment and experimental setups.\nSupported faculty in delivering undergraduate physics curriculum.\n\n2025 - 2026 Independent Developer, Rexburg, ID\n\nOptimized hardware-specific environments for RTX 2070 systems.\nDeveloped and maintained custom Minecraft modpacks on NeoForge."
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Jakob Shurtleff’s CV",
-    "section": "",
-    "text": "6th Semester Computational Physics student focusing on semiconductor theory and AI integration.\n\n\nComputational modeling, Python-based automation, multi-agent AI systems, and physics lab coordination.\n\n\n\nQuantum mechanics, GAAFET/MOS capacitor simulation, astrophysics, and local data aggregation."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Jakob Shurtleff’s CV",
-    "section": "",
-    "text": "Sept 2022 - Apr 2026 Brigham Young University–Idaho, Rexburg, ID\n\nBachelor of Science in Physics\nComputational Concentration"
-  },
-  {
-    "objectID": "resume.html#technical-skills",
-    "href": "resume.html#technical-skills",
-    "title": "Jakob Shurtleff’s CV",
-    "section": "",
-    "text": "Programming Python (Polars, Scipy, Lets-Plot), C++, Ollama, Web Scraping.\nTools Linux, Git, Quarto, LaTeX, RTX-accelerated simulations.\nLanguages English (Native), Mandarin Chinese, Thai."
-  },
-  {
-    "objectID": "resume.html#projects",
-    "href": "resume.html#projects",
-    "title": "Jakob Shurtleff’s CV",
-    "section": "",
-    "text": "2026 Multi-Agent Chatbot Developed an interactive AI system using Python and Ollama for complex task delegation and reasoning.\n2026 AI Fish Simulation Designed and debugged a reward-based AI system for aquatic behavioral simulations in C++.\n\n\n\n2026 Local Event Scraper Built a Python-based web scraper to aggregate and format event data for Idaho Falls and Rexburg newsletters."
-  },
-  {
-    "objectID": "resume.html#experience",
-    "href": "resume.html#experience",
-    "title": "Jakob Shurtleff’s CV",
-    "section": "",
-    "text": "Feb 2026 - Present Physics Lab Coordinator, BYU-Idaho\n\nManaged laboratory equipment and experimental setups.\nSupported faculty in delivering undergraduate physics curriculum.\n\n2025 - 2026 Independent Developer, Rexburg, ID\n\nOptimized hardware-specific environments for RTX 2070 systems.\nDeveloped and maintained custom Minecraft modpacks on NeoForge."
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
+      "Machine Learning",
       "Project 5"
     ]
   },
   {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
+      "Machine Learning",
       "Project 4"
     ]
   },
   {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "MarkDown Basics",
     "crumbs": [
-      "Full Stack",
-      "Project 1"
+      "Machine Learning"
     ]
   },
   {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "MarkDown Basics",
     "crumbs": [
-      "Full Stack",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 2"
+      "Machine Learning"
     ]
   },
   {
@@ -312,6 +226,39 @@
     ]
   },
   {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 5"
+    ]
+  },
+  {
     "objectID": "Competition/project1.html",
     "href": "Competition/project1.html",
     "title": "Client Report - [Insert Project Title]",
@@ -323,25 +270,117 @@
     ]
   },
   {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
   },
   {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
   },
   {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "Background\nI’m a computational physics major at Brigham Young University-Idaho with a heavy interest in applying machine learning and statistical models to better understand and model complex problems. I’m passionate about understanding not only the machine learning workflows but also the physical systems so that I can build solutions that are better taylored for real world problems. ## experience I am comfortable with python, R and C++, and have experience in building AI systems using pytorch and keras. I study physics at BYU-i and work as the physics lab coordinator and a TA, helping to tutor students to better understand complex physics topics. for a more detailed look at my projects feel free to check out the subpages above!\nMarkDown Basics\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 3"
+    ]
   },
   {
     "objectID": "Story_Telling/project4.html",
@@ -366,116 +405,77 @@
     ]
   },
   {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
       "Project 1"
     ]
   },
   {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Jakob Shurtleff",
+    "section": "",
+    "text": "shurtlej@byui.edu • 208-206-7185 • linkedin.com/in/jakob-shurtleff\n\n\n\nBrigham Young University - Idaho | Rexburg, ID\nB.S. in Physics | Expected Graduation: December 2027\n* Emphasis on computational methods and machine learning application\n\n\n\n\nIndependent Computational & AI Development * Engineered object-oriented Python applications, data processing pipelines, and automation tools using Polars and Scikit-learn. * Built custom LLM utilities and multi-agent workflows to explore automated reasoning and language processing techniques.\n\n\n\n\nBYU-Idaho Physics Department | Rexburg, ID\nPhysics Lab Coordinator & Teaching Assistant | February 2026 – Present\n* Coordinated operations and logistics for the university physics homework help center, facilitating peer instruction and academic support resources. * Served as Teaching Assistant for Physics 121 (Principles of Physics I); clarified mechanics concepts, and graded coursework[cite: 1].\nBYU-Idaho Physics Department | Rexburg, ID\nVolunteer Physics Tutor | August 2025 – Present\n* Conducted peer group tutoring in classical mechanics and numerical modeling to help students bridge abstract mathematics with computational applications[cite: 1].\nAptive Environmental | Vacaville, CA\nDoor-to-Door Sales Representative | May 2025 – July 2025\n* Executed direct-to-consumer sales, honing negotiation, objection handling, and pipeline management in a performance-driven environment[cite: 1].\n\n\n\n\n\nLanguages & Libraries: Python (NumPy, Polars, Scikit-learn, Matplotlib), C++, C#, SQL[cite: 1]\nDeveloper Tools: Git, Visual Studio, Linux, REST APIs[cite: 1]\nDomain Focus: Numerical simulation, machine learning deployment, process automation, data analysis[cite: 1]\n\n\n\n\n\n\nAI Engineering and Development — Coursera (2025)[cite: 1]"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Jakob Shurtleff",
+    "section": "",
+    "text": "Brigham Young University - Idaho | Rexburg, ID\nB.S. in Physics | Expected Graduation: December 2027\n* Emphasis on computational methods and machine learning application"
+  },
+  {
+    "objectID": "resume.html#technical-projects",
+    "href": "resume.html#technical-projects",
+    "title": "Jakob Shurtleff",
+    "section": "",
+    "text": "Independent Computational & AI Development * Engineered object-oriented Python applications, data processing pipelines, and automation tools using Polars and Scikit-learn. * Built custom LLM utilities and multi-agent workflows to explore automated reasoning and language processing techniques."
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Jakob Shurtleff",
+    "section": "",
+    "text": "BYU-Idaho Physics Department | Rexburg, ID\nPhysics Lab Coordinator & Teaching Assistant | February 2026 – Present\n* Coordinated operations and logistics for the university physics homework help center, facilitating peer instruction and academic support resources. * Served as Teaching Assistant for Physics 121 (Principles of Physics I); clarified mechanics concepts, and graded coursework[cite: 1].\nBYU-Idaho Physics Department | Rexburg, ID\nVolunteer Physics Tutor | August 2025 – Present\n* Conducted peer group tutoring in classical mechanics and numerical modeling to help students bridge abstract mathematics with computational applications[cite: 1].\nAptive Environmental | Vacaville, CA\nDoor-to-Door Sales Representative | May 2025 – July 2025\n* Executed direct-to-consumer sales, honing negotiation, objection handling, and pipeline management in a performance-driven environment[cite: 1]."
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Jakob Shurtleff",
+    "section": "",
+    "text": "Languages & Libraries: Python (NumPy, Polars, Scikit-learn, Matplotlib), C++, C#, SQL[cite: 1]\nDeveloper Tools: Git, Visual Studio, Linux, REST APIs[cite: 1]\nDomain Focus: Numerical simulation, machine learning deployment, process automation, data analysis[cite: 1]"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Jakob Shurtleff",
+    "section": "",
+    "text": "AI Engineering and Development — Coursera (2025)[cite: 1]"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 4"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
+    "objectID": "Cleansing_Exploration/project5.html",
+    "href": "Cleansing_Exploration/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 5"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "Background\nI’m a computational physics major at Brigham Young University-Idaho with a heavy interest in applying machine learning and statistical models to better understand and model complex problems. I’m passionate about understanding not only the machine learning workflows but also the physical systems so that I can build solutions that are better taylored for real world problems. ## experience I am comfortable with python, R and C++, and have experience in building AI systems using pytorch and keras. I study physics at BYU-i and work as the physics lab coordinator and a TA, helping to tutor students to better understand complex physics topics. for a more detailed look at my projects feel free to check out the subpages above!\nMarkDown Basics\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   }
 ]
