@@ -12,6 +12,8 @@ format:
     fig-cap-location: bottom
 ---
 
+[View Code on GitHub](https://github.com/shurtlej/PINNs_and_Neural_Operators_Project)
+
 ## Executive Summary
 
 Modeling gravitational systems presents a fundamental trade-off between numerical accuracy, computational efficiency, and data dependency. Traditional numerical integrators (e.g., Runge-Kutta, implicit Adams-Bashforth) offer high precision but scale poorly when solving inverse problems or interpolating sparse, noisy telemetry. 
