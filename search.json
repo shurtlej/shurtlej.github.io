@@ -113,7 +113,7 @@
     "href": "Machine_Learning/project1.html",
     "title": "Physics-Informed Neural Networks and Neural Operators for Orbital Dynamics",
     "section": "",
-    "text": "Modeling gravitational systems presents a fundamental trade-off between numerical accuracy, computational efficiency, and data dependency. Traditional numerical integrators (e.g., Runge-Kutta, implicit Adams-Bashforth) offer high precision but scale poorly when solving inverse problems or interpolating sparse, noisy telemetry.\nThis project explores machine learning paradigms applied to two-body celestial mechanics: 1. Physics-Informed Neural Networks (PINNs): Encoding Newton’s Law of Universal Gravitation directly into the loss function via Automatic Differentiation (AD). 2. Neural Operators (DeepONet / Fourier Neural Operators): Learning mapping operators between initial conditions/force parameters and full trajectories. 3. Differentiable Parametric Models: Combining analytical Keplerian parameterizations with automatic differentiation backpropagation.",
+    "text": "View Code on GitHub",
     "crumbs": [
       "Machine Learning",
       "Project 1"
@@ -123,8 +123,8 @@
     "objectID": "Machine_Learning/project1.html#executive-summary",
     "href": "Machine_Learning/project1.html#executive-summary",
     "title": "Physics-Informed Neural Networks and Neural Operators for Orbital Dynamics",
-    "section": "",
-    "text": "Modeling gravitational systems presents a fundamental trade-off between numerical accuracy, computational efficiency, and data dependency. Traditional numerical integrators (e.g., Runge-Kutta, implicit Adams-Bashforth) offer high precision but scale poorly when solving inverse problems or interpolating sparse, noisy telemetry.\nThis project explores machine learning paradigms applied to two-body celestial mechanics: 1. Physics-Informed Neural Networks (PINNs): Encoding Newton’s Law of Universal Gravitation directly into the loss function via Automatic Differentiation (AD). 2. Neural Operators (DeepONet / Fourier Neural Operators): Learning mapping operators between initial conditions/force parameters and full trajectories. 3. Differentiable Parametric Models: Combining analytical Keplerian parameterizations with automatic differentiation backpropagation.",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nModeling gravitational systems presents a fundamental trade-off between numerical accuracy, computational efficiency, and data dependency. Traditional numerical integrators (e.g., Runge-Kutta, implicit Adams-Bashforth) offer high precision but scale poorly when solving inverse problems or interpolating sparse, noisy telemetry.\nThis project explores machine learning paradigms applied to two-body celestial mechanics: 1. Physics-Informed Neural Networks (PINNs): Encoding Newton’s Law of Universal Gravitation directly into the loss function via Automatic Differentiation (AD). 2. Neural Operators (DeepONet / Fourier Neural Operators): Learning mapping operators between initial conditions/force parameters and full trajectories. 3. Differentiable Parametric Models: Combining analytical Keplerian parameterizations with automatic differentiation backpropagation.",
     "crumbs": [
       "Machine Learning",
       "Project 1"
