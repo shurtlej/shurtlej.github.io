@@ -1,317 +1,5 @@
 [
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Jakob Shurtleff",
-    "section": "",
-    "text": "shurtlej@byui.edu • 208-206-7185 • linkedin.com/in/jakob-shurtleff\n\n\n\nBrigham Young University - Idaho | Rexburg, ID\nB.S. in Physics | Expected Graduation: December 2027\n* Emphasis on computational methods and machine learning application\n\n\n\n\nIndependent Computational & AI Development * Engineered object-oriented Python applications, data processing pipelines, and automation tools using Polars and Scikit-learn. * Built custom LLM utilities and multi-agent workflows to explore automated reasoning and language processing techniques.\n\n\n\n\nBYU-Idaho Physics Department | Rexburg, ID\nPhysics Lab Coordinator & Teaching Assistant | February 2026 – Present\n* Coordinated operations and logistics for the university physics homework help center, facilitating peer instruction and academic support resources. * Served as Teaching Assistant for Physics 121 (Principles of Physics I); clarified mechanics concepts, and graded coursework[cite: 1].\nBYU-Idaho Physics Department | Rexburg, ID\nVolunteer Physics Tutor | August 2025 – Present\n* Conducted peer group tutoring in classical mechanics and numerical modeling to help students bridge abstract mathematics with computational applications[cite: 1].\nAptive Environmental | Vacaville, CA\nDoor-to-Door Sales Representative | May 2025 – July 2025\n* Executed direct-to-consumer sales, honing negotiation, objection handling, and pipeline management in a performance-driven environment[cite: 1].\n\n\n\n\n\nLanguages & Libraries: Python (NumPy, Polars, Scikit-learn, Matplotlib), C++, C#, SQL[cite: 1]\nDeveloper Tools: Git, Visual Studio, Linux, REST APIs[cite: 1]\nDomain Focus: Numerical simulation, machine learning deployment, process automation, data analysis[cite: 1]\n\n\n\n\n\n\nAI Engineering and Development — Coursera (2025)[cite: 1]"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Jakob Shurtleff",
-    "section": "",
-    "text": "Brigham Young University - Idaho | Rexburg, ID\nB.S. in Physics | Expected Graduation: December 2027\n* Emphasis on computational methods and machine learning application"
-  },
-  {
-    "objectID": "resume.html#technical-projects",
-    "href": "resume.html#technical-projects",
-    "title": "Jakob Shurtleff",
-    "section": "",
-    "text": "Independent Computational & AI Development * Engineered object-oriented Python applications, data processing pipelines, and automation tools using Polars and Scikit-learn. * Built custom LLM utilities and multi-agent workflows to explore automated reasoning and language processing techniques."
-  },
-  {
-    "objectID": "resume.html#experience",
-    "href": "resume.html#experience",
-    "title": "Jakob Shurtleff",
-    "section": "",
-    "text": "BYU-Idaho Physics Department | Rexburg, ID\nPhysics Lab Coordinator & Teaching Assistant | February 2026 – Present\n* Coordinated operations and logistics for the university physics homework help center, facilitating peer instruction and academic support resources. * Served as Teaching Assistant for Physics 121 (Principles of Physics I); clarified mechanics concepts, and graded coursework[cite: 1].\nBYU-Idaho Physics Department | Rexburg, ID\nVolunteer Physics Tutor | August 2025 – Present\n* Conducted peer group tutoring in classical mechanics and numerical modeling to help students bridge abstract mathematics with computational applications[cite: 1].\nAptive Environmental | Vacaville, CA\nDoor-to-Door Sales Representative | May 2025 – July 2025\n* Executed direct-to-consumer sales, honing negotiation, objection handling, and pipeline management in a performance-driven environment[cite: 1]."
-  },
-  {
-    "objectID": "resume.html#technical-skills",
-    "href": "resume.html#technical-skills",
-    "title": "Jakob Shurtleff",
-    "section": "",
-    "text": "Languages & Libraries: Python (NumPy, Polars, Scikit-learn, Matplotlib), C++, C#, SQL[cite: 1]\nDeveloper Tools: Git, Visual Studio, Linux, REST APIs[cite: 1]\nDomain Focus: Numerical simulation, machine learning deployment, process automation, data analysis[cite: 1]"
-  },
-  {
-    "objectID": "resume.html#certifications",
-    "href": "resume.html#certifications",
-    "title": "Jakob Shurtleff",
-    "section": "",
-    "text": "AI Engineering and Development — Coursera (2025)[cite: 1]"
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
-    "title": "Physics-Informed Neural Networks and Neural Operators for Orbital Dynamics",
-    "section": "",
-    "text": "View Code on GitHub",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html#executive-summary",
-    "href": "Machine_Learning/project1.html#executive-summary",
-    "title": "Physics-Informed Neural Networks and Neural Operators for Orbital Dynamics",
-    "section": "Executive Summary",
-    "text": "Executive Summary\nModeling gravitational systems presents a fundamental trade-off between numerical accuracy, computational efficiency, and data dependency. Traditional numerical integrators (e.g., Runge-Kutta, implicit Adams-Bashforth) offer high precision but scale poorly when solving inverse problems or interpolating sparse, noisy telemetry.\nThis project explores machine learning paradigms applied to two-body celestial mechanics: 1. Physics-Informed Neural Networks (PINNs): Encoding Newton’s Law of Universal Gravitation directly into the loss function via Automatic Differentiation (AD). 2. Neural Operators (DeepONet / Fourier Neural Operators): Learning mapping operators between initial conditions/force parameters and full trajectories. 3. Differentiable Parametric Models: Combining analytical Keplerian parameterizations with automatic differentiation backpropagation.",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html#mathematical-formulation",
-    "href": "Machine_Learning/project1.html#mathematical-formulation",
-    "title": "Physics-Informed Neural Networks and Neural Operators for Orbital Dynamics",
-    "section": "Mathematical Formulation",
-    "text": "Mathematical Formulation\n\n1. Two-Body Orbital Governing Equations\nThe motion of a planet or satellite orbiting a central mass \\(M\\) under Newtonian gravity is governed by the second-order non-linear differential equation:\n\\[\\ddot{\\mathbf{r}} = -\\mu \\frac{\\mathbf{r}}{\\|\\mathbf{r}\\|^3}\\]\nwhere \\(\\mathbf{r} = (x, y)^T\\) is the position vector in 2D space, and \\(\\mu = G M\\) is the standard gravitational parameter. In planar Cartesian coordinates, this breaks down into two coupled scalar ODEs:\n\\[\\frac{d^2x}{dt^2} + \\mu \\frac{x}{(x^2 + y^2)^{3/2}} = 0\\]\n\\[\\frac{d^2y}{dt^2} + \\mu \\frac{y}{(x^2 + y^2)^{3/2}} = 0\\]\n\n\n2. Physics-Informed Loss Function\nTo train a PINN \\(f_\\theta(t) = (\\hat{x}(t), \\hat{y}(t))\\), we formulate a composite loss function:\n\\[\\mathcal{L}_{total}(\\theta) = \\lambda_{data} \\mathcal{L}_{data}(\\theta) + \\lambda_{phys} \\mathcal{L}_{phys}(\\theta) + \\lambda_{ic} \\mathcal{L}_{ic}(\\theta)\\]\nWhere: * Data Loss: Computes mean squared error against observed telemetry points \\((x_i, y_i, t_i)\\): \\[\\mathcal{L}_{data} = \\frac{1}{N} \\sum_{i=1}^N \\left( (\\hat{x}(t_i) - x_i)^2 + (\\hat{y}(t_i) - y_i)^2 \\right)\\] * Physics Residual Loss: Enforces the differential equations across \\(M\\) collocation points: \\[\\mathcal{R}_x(t_j) = \\frac{\\partial^2 \\hat{x}}{\\partial t^2}\\Big|_{t_j} + \\mu \\frac{\\hat{x}(t_j)}{(\\hat{x}(t_j)^2 + \\hat{y}(t_j)^2)^{3/2}}\\] \\[\\mathcal{L}_{phys} = \\frac{1}{M} \\sum_{j=1}^M \\left( \\mathcal{R}_x(t_j)^2 + \\mathcal{R}_y(t_j)^2 \\right)\\]",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html#dataset-telemetry-verification",
-    "href": "Machine_Learning/project1.html#dataset-telemetry-verification",
-    "title": "Physics-Informed Neural Networks and Neural Operators for Orbital Dynamics",
-    "section": "Dataset & Telemetry Verification",
-    "text": "Dataset & Telemetry Verification\nTo train and evaluate the models, synthetic telemetry datasets were generated with added Gaussian noise to simulate real-world observation errors.\n\n\n\n\n\n\nFigure 1: Sample orbit from dataset showing noisy observations.",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html#empirical-results-analysis",
-    "href": "Machine_Learning/project1.html#empirical-results-analysis",
-    "title": "Physics-Informed Neural Networks and Neural Operators for Orbital Dynamics",
-    "section": "Empirical Results & Analysis",
-    "text": "Empirical Results & Analysis\n\nComparative Model Performance\n\n\n\n\n\n\n\n\n\nModel Architecture\nTraining Stability\nMean Trajectory MSE\nSensitivity to Noise\n\n\n\n\nStandard MLP (Data-Only)\nHigh\n\\(1.42 \\times 10^{-2}\\)\nHigh (Overfits noise)\n\n\nVanilla PINN (Fixed Weights)\nMedium (Stiff gradients)\n\\(3.15 \\times 10^{-4}\\)\nModerate\n\n\nAdaptive Loss PINN\nHigh\n\\(8.70 \\times 10^{-6}\\)\nLow\n\n\nDeepONet Operator\nVery High\n\\(1.12 \\times 10^{-5}\\)\nVery Low\n\n\n\n\n\nConvergence Dynamics\nTraining stability in vanilla PINNs is severely hindered by gradient pathology: the magnitude of gradients from \\(\\mathcal{L}_{phys}\\) dominates or vanishes relative to \\(\\mathcal{L}_{data}\\). Dynamic loss balancing (e.g., dynamic weight updating via learning rate annealing or gradient norm matching) is required to ensure steady convergence.\n\n\nTrajectory Fitting\n\n\n\n\n\n\nFigure 2: Final trajectory reconstruction demonstrating PINN interpolation over noisy observations.",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html#key-insights-takeaways",
-    "href": "Machine_Learning/project1.html#key-insights-takeaways",
-    "title": "Physics-Informed Neural Networks and Neural Operators for Orbital Dynamics",
-    "section": "Key Insights & Takeaways",
-    "text": "Key Insights & Takeaways\n\nGradient Stiffness at Periapsis: Near periapsis, velocity and acceleration increase dramatically (\\(1/r^2\\) scale factor), causing extreme gradient spikes during Automatic Differentiation. Rescaling domain variables or utilizing adaptive collocation sampling near periapsis significantly improves model performance.\nSpectral Bias of MLPs: Standard coordinate MLPs struggle to learn high-frequency periodic motions. Incorporating Fourier feature mappings or sinusoidal activation functions (SIREN) allows neural networks to fit orbital dynamics much faster.\nOperators vs. PINNs: While PINNs excel at solving a single specific orbit given sparse telemetry, Neural Operators (DeepONet) generalize across entire parametric families of orbits, making them superior for real-time trajectory predictions across varying initial conditions.",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "Background\nI’m a computational physics major at Brigham Young University-Idaho with a heavy interest in applying machine learning and statistical models to better understand and model complex problems. I’m passionate about understanding not only the machine learning workflows but also the physical systems so that I can build solutions that are better taylored for real world problems. ## experience I am comfortable with python, R and C++, and have experience in building AI systems using pytorch and keras. I study physics at BYU-i and work as the physics lab coordinator and a TA, helping to tutor students to better understand complex physics topics. for a more detailed look at my projects feel free to check out the subpages above!\nMarkDown Basics\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
     "objectID": "competition.html",
     "href": "competition.html",
     "title": "about me",
@@ -332,14 +20,14 @@
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Data Cleansing",
-      "Project 4"
+      "Project 3"
     ]
   },
   {
@@ -352,6 +40,86 @@
       "Data Cleansing",
       "Project 1"
     ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project5.html",
+    "href": "Cleansing_Exploration/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "story_telling.html",
@@ -374,25 +142,59 @@
     ]
   },
   {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack",
-      "Project 4"
+      "Machine Learning",
+      "Project 2"
     ]
   },
   {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack",
-      "Project 1"
+      "Machine Learning",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
     ]
   },
   {
@@ -413,6 +215,28 @@
     "text": "MarkDown Basics",
     "crumbs": [
       "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project5.html",
+    "href": "Story_Telling/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 5"
     ]
   },
   {
@@ -438,14 +262,78 @@
     ]
   },
   {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+  },
+  {
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+  },
+  {
+    "objectID": "resume.html#awards",
+    "href": "resume.html#awards",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+  },
+  {
+    "objectID": "resume.html#publications",
+    "href": "resume.html#publications",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+  },
+  {
+    "objectID": "resume.html#occupation",
+    "href": "resume.html#occupation",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+  },
+  {
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Machine Learning",
-      "Project 5"
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 1"
     ]
   },
   {
@@ -458,60 +346,6 @@
       "Machine Learning",
       "Project 3"
     ]
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "ml.html",
@@ -531,6 +365,124 @@
     "text": "MarkDown Basics",
     "crumbs": [
       "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
     ]
   }
 ]
