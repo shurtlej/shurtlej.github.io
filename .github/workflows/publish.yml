@@ -1,55 +1,44 @@
+name: Publish HTML site
+
 on:
   workflow_dispatch:
   push:
-    branches: main
+    branches: [main]
+    paths:
+      - "_site/**"
 
-name: Quarto Publish
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-gh-pages
+  cancel-in-progress: false
 
 jobs:
-  build-deploy:
+  publish:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Check out repository
+      - name: Check out site files
         uses: actions/checkout@v4
-
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
         with:
-          # To install LaTeX to build PDF book 
-          tinytex: true 
-      
-      # Comment out the below section if you are not using python
-      - name: Install Python and Dependencies
-        uses: actions/setup-python@v5.3.0
-        with:
-          python-version: '3.12'
-          #cache: 'pip'
-      - run: pip install jupyter numpy pandas scikit-learn lets-plot palmerpenguins seaborn matplotlib plotly.express #altair altair_viewer # nbformat nbclient pyyaml
-      #- run: pip install -r requirements.txt
+          fetch-depth: 0
 
-      # # Comment out the 2 below section if you are not using R
-      # - name: Install R
-      #   uses: r-lib/actions/setup-r@v2
-      #   with:
-      #     #r-version: '4.3.2'
-      #     use-public-rspm: true
+      - name: Check site entry point
+        run: test -f _site/index.html
 
-      # - name: Install R Dependencies
-      #   uses: r-lib/actions/setup-r-dependencies@v2
-      #   with:
-      #     packages: 
-      #       any::tidyverse
-      #       any::knitr
-      #       any::DT
-
-      - name: Render resume.qmd to PDF
-        run: quarto render resume.qmd --to pdf
-
-      - name: Render and Publish
-        uses: quarto-dev/quarto-actions/publish@v2
-        with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publish _site to gh-pages
+        run: |
+          git fetch origin gh-pages
+          git worktree add --detach "$RUNNER_TEMP/gh-pages" origin/gh-pages
+          rsync -a --delete --exclude='/.git' _site/ "$RUNNER_TEMP/gh-pages/"
+          cd "$RUNNER_TEMP/gh-pages"
+          touch .nojekyll
+          git add -A
+          if git diff --cached --quiet; then
+            echo "The published site is already up to date."
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m "Publish HTML site"
+          git push origin HEAD:gh-pages

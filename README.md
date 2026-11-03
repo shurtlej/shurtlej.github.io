@@ -1,18 +1,7 @@
-# BYUI DS Portfolio Template
-## Building a Quarto Portfolo
+# Jakob Shurtleff portfolio
 
-A template for a portfolio developed with Quarto and hosted on GitHub.
+The website is edited directly in `_site/`. Its home page is `_site/index.html`; machine learning pages are in `_site/Machine_Learning/`, and the research page is in `_site/research/`.
 
-This is all configured so you only need to edit the source files in Quarto (.qmd). The website is generated and hosted automatically by GitHub.
+Commit and push changes to `_site/` on `main` to publish them to `gh-pages`. The workflow copies the complete contents of `_site/` to that branch without running Quarto. A manual run is also available in GitHub Actions. Files removed from `_site/` will be removed from the published site on the next run.
 
-## Using this template
-
-1. Click on green button "Use this Tempalte" -> "Create a new Repo"
-
-1. Choose a name for your repository
-
-1. Important: check 'Include all branches' when creating the repository (because we will need the gh-pages branch to host the website).
-
-1. Once your repo is created, remember to update the links to your GitHub repo in _quarto.yml, replacing every instance 'your_name'.
-
-1. The first time you publish to your repo use this command line string `quarto publish gh-pages` in the vs code terminal.
+The `.qmd` files remain as source references. Future edits to them do not update the published HTML automatically.
