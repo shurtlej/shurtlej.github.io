@@ -1,8 +1,88 @@
 <!doctype html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Project 2 | Machine Learning | Jakob Shurtleff</title><link rel="stylesheet" href="../styles.css"></head>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Traffic Sign Recognition | Machine Learning | Jakob Shurtleff</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
 <body>
-<header class="site-header"><div class="header-inner"><a class="brand" href="../index.html">Jakob Shurtleff</a><nav class="site-nav" aria-label="Main navigation"><a href="../index.html">Home</a><a href="index.html" aria-current="page">Machine Learning</a><a href="../research/nested-sampling.html">Research Project</a></nav></div></header>
-<main><div class="container page-hero"><span class="eyebrow">Machine learning / Project 02</span><h1>Project 2</h1><p class="lead">A new project page is coming soon.</p></div><div class="container page-layout"><aside class="project-sidebar" aria-label="Machine learning projects"><strong>Projects</strong><a href="index.html">Overview</a><a href="project1.html">Orbital dynamics</a><a href="project2.html" aria-current="page">Project 2 <small>Coming soon</small></a><a href="project3.html">Project 3 <small>Coming soon</small></a><a href="project4.html">Project 4 <small>Coming soon</small></a><a href="project5.html">Project 5 <small>Coming soon</small></a></aside><article class="prose"><div class="note"><strong>Coming soon.</strong> This page is reserved for a future machine learning project.</div><p><a href="project1.html">Read the orbital dynamics project</a> or <a href="index.html">return to the project overview</a>.</p></article></div></main>
-<footer class="site-footer"><div class="container"><span>© 2026 Jakob Shurtleff</span><a href="index.html">All machine learning projects</a></div></footer>
-</body></html>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="../index.html">Jakob Shurtleff</a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="../index.html">Home</a>
+        <a href="index.html" aria-current="page">Machine Learning</a>
+        <a href="../research/nested-sampling.html">Research Project</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container page-hero">
+      <span class="eyebrow">Machine learning / Project 02</span>
+      <h1>Traffic Sign Recognition</h1>
+      <p class="lead">Classifying 43 traffic sign categories using a hybrid Spatial Transformer Network and Vision Transformer (<code>mobilevit_xs</code>) architecture.</p>
+    </div>
+
+    <div class="container page-layout">
+      <aside class="project-sidebar" aria-label="Machine learning projects">
+        <strong>Projects</strong>
+        <a href="index.html">Overview</a>
+        <a href="project1.html">Orbital dynamics</a>
+        <a href="project2.html" aria-current="page">Traffic sign recognition</a>
+        <a href="project3.html">Project 3 <small>Coming soon</small></a>
+        <a href="project4.html">Project 4 <small>Coming soon</small></a>
+        <a href="project5.html">Project 5 <small>Coming soon</small></a>
+      </aside>
+
+      <article class="prose">
+        <h2>Introduction &amp; Overview</h2>
+        <p>Traffic sign recognition is a core computer vision task where accurate classification across dozens of categories is critical, yet traditional Convolutional Neural Networks (CNNs) can struggle with global context. Because standard convolutions rely on localized receptive fields built up layer by layer, capturing relationships between distant regions of an image—such as how outer border colors, overall geometric sign shapes, or surrounding visual cues relate to internal symbols—can be less direct than with attention-based mechanisms. To address this, this project combines a Vision Transformer backbone (<code>mobilevit_xs</code>) with a custom Spatial Transformer Network (<code>ParametricSTN</code>) and targeted training techniques to classify 43 traffic sign categories.</p>
+
+        <h2>Methods</h2>
+
+        <h3>Model Choice &amp; Architecture</h3>
+        <ul>
+          <li><strong>Hybrid Architecture (<code>HybridTrafficSignModel</code>):</strong> Pairs a custom <code>ParametricSTN</code> front-end with a pretrained <code>mobilevit_xs</code> backbone (configured for 43 classes via <code>timm</code>), allowing input images to be adaptively transformed before transformer-based visual processing.</li>
+          <li><strong>Spatial Transformer Network (<code>ParametricSTN</code>):</strong> Uses a lightweight CNN localization network (<code>loc_net</code>) with convolutional, ReLU, max-pooling, and fully connected layers to predict three parameters—rotation, scale, and brightness—initialized near an identity transform (<code>rot=0, scale=1, brightness=0</code>). It builds a 2&times;3 affine warp grid (<code>F.affine_grid</code> and <code>F.grid_sample</code>) for spatial alignment and applies brightness adjustments across the batch.</li>
+        </ul>
+
+        <h3>Training Design</h3>
+        <ul>
+          <li><strong>Data Augmentation &amp; Preprocessing:</strong> Training images (<code>224&times;224</code> target size, batch size 32) undergo resizing to <code>256&times;256</code>, random cropping, random rotation (&plusmn;15&deg;), color jittering (brightness and contrast), tensor conversion, and ImageNet normalization (<code>mean=[0.485, 0.456, 0.406]</code>, <code>std=[0.229, 0.224, 0.225]</code>), accompanied by a visualization utility (<code>audit_augmentations</code>) to inspect augmentation variations. Validation/test images use strictly deterministic resizing and normalization (<code>test_transform</code>).</li>
+          <li><strong>Staged Training &amp; Optimization:</strong> Trained with <code>CrossEntropyLoss</code>, <code>Adam</code>, and gradient clipping (<code>max_norm=1.0</code>) across three stages:
+            <ol>
+              <li><strong>Phase 1:</strong> Trains only the <code>mobilevit_xs</code> backbone (<code>lr=1e-4</code>, <code>apply_stn=False</code>) for 6 epochs and saves weights.</li>
+              <li><strong>Phase 2:</strong> Freezes the ViT backbone and trains only the <code>ParametricSTN</code> (<code>lr=1e-4</code>, <code>apply_stn=True</code>) for 2 epochs.</li>
+              <li><strong>Phase 3:</strong> Unfreezes all parameters for end-to-end fine-tuning at a lower learning rate (<code>lr=1e-5</code>, <code>apply_stn=True</code>) for 2 epochs.</li>
+            </ol>
+          </li>
+        </ul>
+
+        <h3>Holdout Separation &amp; Preventing Data Leakage</h3>
+        <ul>
+          <li>Training data is organized into a dedicated <code>training</code> directory (merged from <code>training1</code> and <code>training2</code>) loaded with <code>shuffle=True</code>, while evaluation uses a separate <code>holdout</code> directory (alongside <code>mini_holdout</code> / <code>mini_holdout_answers.csv</code> references in the notebook) with <code>shuffle=False</code> and <code>torch.no_grad()</code>.</li>
+          <li>Keeping the holdout images separate from the <code>training</code> pipeline and applying only non-random preprocessing (<code>test_transform</code>) during evaluation—rather than training augmentations or tuning on holdout data—prevents data leakage and ensures evaluation reflects performance on unseen images.</li>
+        </ul>
+
+        <h2>Results</h2>
+        <p>The model achieved <strong>98%</strong> accuracy (reported as <strong>98.01%</strong> in the evaluation output) on image recognition, and on the holdout dataset it misclassified only <strong>4 images out of 12,629</strong> total images.</p>
+        <figure>
+          <img src="failed_images.png" alt="Misclassified traffic sign images from the holdout evaluation set">
+          <figcaption>Misclassified images from the holdout dataset (4 out of 12,629 images).</figcaption>
+        </figure>
+
+        <p><a href="project1.html">Read the orbital dynamics project</a> or <a href="index.html">return to the project overview</a>.</p>
+      </article>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <span>&copy; 2026 Jakob Shurtleff</span>
+      <a href="index.html">All machine learning projects</a>
+    </div>
+  </footer>
+</body>
+</html>
